@@ -1,0 +1,10 @@
+body {
+    color: rgb(68, 88, 68); 
+    background-color: bisque
+}
+.bob {
+    font-size: 2em;
+}
+.pizza {
+    border: 10px dotted white;
+}
